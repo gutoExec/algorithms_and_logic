@@ -5,7 +5,10 @@
 ### Tecnologia usada
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50" height="50">
 
+### Estudos:
 [Tipo de Dados](./doc/data_type/index.md)
+
+[Operadores](./doc/operators/index.md)
 
 
 

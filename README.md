@@ -10,5 +10,7 @@
 
 [Operadores](./doc/operators/index.md)
 
+[Output](./doc/output/index.md)
+
 
 

@@ -14,5 +14,9 @@
 
 [Casting](./doc/casting/)
 
+[Input](./doc/input/index.md)
+
+[Debug](./doc/debug/index.md)
+
 
 

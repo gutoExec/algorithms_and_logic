@@ -12,5 +12,7 @@
 
 [Output](./doc/output/index.md)
 
+[Casting](./doc/casting/)
+
 
 
